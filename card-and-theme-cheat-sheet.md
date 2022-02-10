@@ -11,7 +11,7 @@ To start a card grid add card and grid classes, at least one general grid class 
 |`card--inverted-layout` |general / individual | inverts image and title, making it from top to bottom img > title > p > button |
 |`class` |general / individual | info |
 
-## SZ Themes
+### SZ Themes
 
 | Class  | Info |
 |-------|----- |
@@ -19,7 +19,7 @@ To start a card grid add card and grid classes, at least one general grid class 
 |`card--sz-dark-theme`| purple and black|
 |`card--sz-light-theme`| purple and white|
 
-### Grid
+## Grid
 
 | Class | Selector | Range |  Info |
 |-------|----------|----- | ----- |
