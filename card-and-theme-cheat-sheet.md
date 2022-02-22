@@ -32,7 +32,7 @@ To start a card grid add card and grid classes, at least one general grid class 
 
 	Grid Breakpoints
 
-| Class | Selector | Range |  Info |
+| Class | Selector | Range |  Width |
 |-------|----------|----- | ----- |
 |`grid-col-xs-#` |general / individual| 1 - 8 | up to 480px |
 |`grid-col-s-#` |general / individual| 1 - 8 | up to 768px |
