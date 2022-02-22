@@ -1,7 +1,9 @@
 # Card and SZ Theme Cheat Sheet
 
+Mobile first tool create a simple card system along with color themes.
+
 ## Card initiation
-To start a card grid add card and grid classes, at least one general grid class is needed, eg. `grid-col-3` for 3 items per row. No breakpoints needed. If using breakpoints for responsiveness, please start low and then go up (mobile first) in number, eg `grid-col-1 grid-col-s-2 grid-col-m-3 grid-col-l-4 grid-col-xl-5`
+To start a card grid add card and grid classes, at least one general grid class is needed, eg. `grid-col-3` for 3 items per row. No breakpoints needed. If using breakpoints for responsiveness, please start low and then go up (mobile first) in number, eg `grid-col-1 grid-col-s-2 grid-col-m-3 grid-col-l-4 grid-col-xl-5`. *****It is important to rememember this is a mobile first tool, when adding `grid-col-#` add the smallest number for the smallest screen and then go up from there, eg. `grid-col-1 grid-col-m-2 grid-col-l-3`
 
 ### Card class
 | Class | Selector | Info |
@@ -34,6 +36,6 @@ To start a card grid add card and grid classes, at least one general grid class 
 |-------|----------|----- | ----- |
 |`grid-col-#-xs` |general / individual| 1 - 8 | up to 480px |
 |`grid-col-#-s` |general / individual| 1 - 8 | up to 768px |
-|`grid-col-#-m` |general / individual| 1 - 8 | up to 980px |
-|`grid-col-#-l` |general / individual| 1 - 8 | up to 1279px |
-|`grid-col-#-xl` |general / individual| 1 - 8 | 1280px + |
+|`grid-col-#-m` |general / individual| 1 - 8 | up to 1366px |
+|`grid-col-#-l` |general / individual| 1 - 8 | up to 1920px (1080p) |
+|`grid-col-#-xl` |general / individual| 1 - 8 | 2560px + (2k/QHD)|
