@@ -17,10 +17,10 @@ To start a card grid add card and grid classes, at least one general grid class 
 `card` class  
 ![card class](./img/card.PNG)
 
-`card--marginless-layout`  
+`card--marginless-layout` class  
 ![card class](./img/card--marginless-layout.PNG)
 
-`card--inverted-layout`  
+`card--inverted-layout` class  
 ![card class](./img/card--inverted-layout.PNG)
 
 ### SZ Themes
@@ -30,6 +30,15 @@ To start a card grid add card and grid classes, at least one general grid class 
 | `card--sz-minimal-dark`|like the `card` class but in black |
 |`card--sz-dark-theme`| purple and black|
 |`card--sz-light-theme`| purple and white|
+
+`card--sz-minimal-dark` class  
+![card class](./img/card--sz-minimal-dark.PNG)
+
+`card--sz-dark-theme` class  
+![card class](./img/card--sz-dark-theme.PNG)
+
+`card--sz-light-theme` class  
+![card class](./img/card--sz-light-theme.PNG)
 
 ## Grid
 
