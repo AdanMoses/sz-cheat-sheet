@@ -34,8 +34,8 @@ To start a card grid add card and grid classes, at least one general grid class 
 
 | Class | Selector | Range |  Info |
 |-------|----------|----- | ----- |
-|`grid-col-#-xs` |general / individual| 1 - 8 | up to 480px |
-|`grid-col-#-s` |general / individual| 1 - 8 | up to 768px |
-|`grid-col-#-m` |general / individual| 1 - 8 | up to 1366px |
-|`grid-col-#-l` |general / individual| 1 - 8 | up to 1920px (1080p) |
-|`grid-col-#-xl` |general / individual| 1 - 8 | 2560px + (2k/QHD)|
+|`grid-col-xs-#` |general / individual| 1 - 8 | up to 480px |
+|`grid-col-s-#` |general / individual| 1 - 8 | up to 768px |
+|`grid-col-m-#` |general / individual| 1 - 8 | up to 1366px |
+|`grid-col-l-#` |general / individual| 1 - 8 | up to 1920px (1080p) |
+|`grid-col-xl-#` |general / individual| 1 - 8 | 2560px + (2k/QHD)|
