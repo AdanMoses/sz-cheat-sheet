@@ -78,7 +78,9 @@ To start a card grid add card and grid classes, at least one general grid class 
 
 Examples of grid, all images have the same classes, at a different viewport.
 
-#### `card grid-col-1 grid-col-s-2 grid-col-m-3 grid-col-l-4 grid-col-xl-5 item-spacing--regular card--marginless-layout card--sz-dark-theme`  
+#### `<div
+                class="card grid-col-1 grid-col-s-2 grid-col-m-3 grid-col-l-4 grid-col-xl-5 item-spacing--regular card--marginless-layout card--sz-dark-theme"  
+								...`  
 
 ![xs viewport](./img/xs.png)
 
