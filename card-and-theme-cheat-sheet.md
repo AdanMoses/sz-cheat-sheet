@@ -49,6 +49,16 @@ To start a card grid add card and grid classes, at least one general grid class 
 |`half-size` |general / individual| N/A | same as `double-size` but halfs it |
 |`full-row` | individual| N/A | makes the element take 100% of the row |
 
+`grid-col-1` class  
+![card class](./img/grid-col-1.PNG)
+
+`grid-col-2` class  
+![card class](./img/grid-col-2.PNG)
+
+`grid-col-3` class  
+![card class](./img/grid-col-3.PNG)  
+
+
 	Grid Breakpoints
 
 | Class | Selector | Range |  Width |
