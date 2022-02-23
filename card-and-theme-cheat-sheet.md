@@ -18,10 +18,10 @@ To start a card grid add card and grid classes, at least one general grid class 
 ![card class](./img/card.PNG)
 
 `card--marginless-layout` class  
-![card class](./img/card--marginless-layout.PNG)
+![card--marginless-layou class](./img/card--marginless-layout.PNG)
 
 `card--inverted-layout` class  
-![card class](./img/card--inverted-layout.PNG)
+![card--inverted-layout class](./img/card--inverted-layout.PNG)
 
 ### SZ Themes
 
@@ -32,13 +32,13 @@ To start a card grid add card and grid classes, at least one general grid class 
 |`card--sz-light-theme`| purple and white|
 
 `card--sz-minimal-dark` class  
-![card class](./img/card--sz-minimal-dark.PNG)
+![card--sz-minimal-dark class](./img/card--sz-minimal-dark.PNG)
 
 `card--sz-dark-theme` class  
-![card class](./img/card--sz-dark-theme.PNG)
+![card--sz-dark-theme class](./img/card--sz-dark-theme.PNG)
 
 `card--sz-light-theme` class  
-![card class](./img/card--sz-light-theme.PNG)
+![card--sz-light-theme class](./img/card--sz-light-theme.PNG)
 
 ## Grid
 
@@ -50,13 +50,20 @@ To start a card grid add card and grid classes, at least one general grid class 
 |`full-row` | individual| N/A | makes the element take 100% of the row |
 
 `grid-col-1` class  
-![card class](./img/grid-col-1.PNG)
+![grid-col-1 class](./img/grid-col-1.PNG)
 
 `grid-col-2` class  
-![card class](./img/grid-col-2.PNG)
+![grid-col-2 class](./img/grid-col-2.PNG)
 
 `grid-col-3` class  
-![card class](./img/grid-col-3.PNG)  
+![grid-col-3 class](./img/grid-col-3.PNG)  
+
+`half-size` class and `double-size` class  
+![half-size class and double-size class](./img/double-half-size.PNG)
+
+`full-row` class  
+![full-row class](./img/full-row.PNG)  
+
 
 
 	Grid Breakpoints
