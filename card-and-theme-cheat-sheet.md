@@ -75,3 +75,17 @@ To start a card grid add card and grid classes, at least one general grid class 
 |`grid-col-m-#` |general / individual| 1 - 8 | up to 1366px |
 |`grid-col-l-#` |general / individual| 1 - 8 | up to 1920px (1080p) |
 |`grid-col-xl-#` |general / individual| 1 - 8 | 2560px + (2k/QHD)|
+
+Examples of grid, all images have the same classes, at a different viewport.
+
+#### `card grid-col-1 grid-col-s-2 grid-col-m-3 grid-col-l-4 grid-col-xl-5 item-spacing--regular card--marginless-layout card--sz-dark-theme`  
+
+![xs viewport](./img/xs.PNG)
+
+![s viewport](./img/s.PNG)
+
+![m viewport](./img/m.PNG)  
+
+![l viewport](./img/l.PNG)
+
+![xl viewport](./img/xl.PNG)
