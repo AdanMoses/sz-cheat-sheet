@@ -80,12 +80,12 @@ Examples of grid, all images have the same classes, at a different viewport.
 
 #### `card grid-col-1 grid-col-s-2 grid-col-m-3 grid-col-l-4 grid-col-xl-5 item-spacing--regular card--marginless-layout card--sz-dark-theme`  
 
-![xs viewport](./img/xs.PNG)
+![xs viewport](./img/xs.png)
 
-![s viewport](./img/s.PNG)
+![s viewport](./img/s.png)
 
-![m viewport](./img/m.PNG)  
+![m viewport](./img/m.png)  
 
-![l viewport](./img/l.PNG)
+![l viewport](./img/l.png)
 
-![xl viewport](./img/xl.PNG)
+![xl viewport](./img/xl.png)
