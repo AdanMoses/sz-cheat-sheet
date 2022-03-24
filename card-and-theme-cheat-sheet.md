@@ -3,7 +3,11 @@
 Mobile first tool create a simple card system along with color themes.
 
 ## Card initiation
-To start a card grid add card and grid classes, at least one general grid class is needed, eg. `grid-col-3` for 3 items per row. No breakpoints needed. If using breakpoints for responsiveness, please start low and then go up (mobile first) in number, eg `grid-col-1 grid-col-s-2 grid-col-m-3 grid-col-l-4 grid-col-xl-5`. *****It is important to rememember this is a mobile first tool, when adding `grid-col-#` add the smallest number for the smallest screen and then go up from there, eg. `grid-col-1 grid-col-m-2 grid-col-l-3`
+To start a card grid add card and grid classes, at least one general grid class is needed, eg. `grid-col-1` for 1 item per row. No breakpoints needed. If using breakpoints for responsiveness, please start with `grid-col-X` as the lowest number of items you want per row (aka mobile) and then go up in number, eg `grid-col-1 grid-col-1 grid-col-m-2 grid-col-l-3 grid-col-xl-4`.
+
+*****It is important to rememember this is a mobile first tool, when adding `grid-col-#` add the smallest number for the smallest screen and then go up from there, eg. `grid-col-1 grid-col-m-2 grid-col-l-3`
+
+** NOTE: All classes can be added on a Row level or Column level. On a Row level it creates a grid, adds classes to all items (or columns) equally. When on a Column level, it adds it to that individual column. You can create as many grids as possible and combine different classes within each grid by creating a Row for each desired layout.
 
 `card grid-col-1 item-spacing--regular`
 
