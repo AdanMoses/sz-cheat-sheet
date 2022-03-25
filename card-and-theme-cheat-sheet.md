@@ -9,7 +9,15 @@ To start a card grid add card and grid classes, at least one general grid class 
 
 ** NOTE: All classes can be added on a Row level or Column level. On a Row level it creates a grid, adds classes to all items (or columns) equally. When on a Column level, it adds it to that individual column. You can create as many grids as possible and combine different classes within each grid by creating a Row for each desired layout.
 
-`card grid-col-1 item-spacing--regular`
+![magento row](./img/mag-row.png)
+
+![magento row options](./img/mag-row-classes.png)
+
+![magento column](./img/mag-column.png)
+
+![magento column options](./img/mag-column-classes.png)
+
+![not a magento column](./img/mag-notcolumn.png)
 
 ### Card class
 | Class | Selector | Info |
