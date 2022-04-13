@@ -11,19 +11,24 @@ Classes:
 .grid-col-span-#
 .grid-row-span-#
 
-/* item positioning */
-.top-left
-.top-middle
-.top-right
-.middle-left
-.middle-middle
-.middle-right
-.bottom-left
-.bottom-middle
-.bottom-right
+/* item positioning, individual selector */
+.grid-item-#-top-left
+.grid-item-#-top-middle
+.grid-item-#-top-right
+.grid-item-#-middle-left
+.grid-item-#-middle-middle
+.grid-item-#-middle-right
+.grid-item-#-bottom-left
+.grid-item-#-bottom-middle
+.grid-item-#-bottom-right
 
-/* Overlay themes, works on container or item */
+/* Overlay themes, works on container */
 .overlay-theme-glass
 .overlay-theme-glass-mucho-glass
 .overlay-theme-glass-less-glass
+
+/* Overlay themes, individual selectors */
+.grid-item-#-overlay-theme-glass
+.grid-item-#-overlay-theme-mucho-glass
+.grid-item-#-overlay-theme-less-glass
 ```
