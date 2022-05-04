@@ -2,7 +2,7 @@
 
 A 3x3 grid for positioning information within a banner.
 
-Classes:
+## Classes:
 ```css
 /* main class */
 .banner
@@ -32,3 +32,15 @@ Classes:
 .grid-item-#-overlay-theme-mucho-glass
 .grid-item-#-overlay-theme-less-glass
 ```
+
+## Creating a new banner
+
+To create a new banner using this banner system, please follow the next steps:
+
+1. Create a new block in Magento, name it, and give it an identifier
+2. Add a new Banner on a Row level
+3. Add the desired background image
+4. Edit the Banner
+- Make sure to have Cover selected in the Background Size option
+- Add the whatever text you are adding into the Message Text box in the Content section. Each paragraph will result in a grid item, giving the flexibility of moving paragraphs around the iamge.
+5. Create a new page and add your new block to it!
